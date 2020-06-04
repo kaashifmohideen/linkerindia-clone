@@ -1,0 +1,36 @@
+body
+{
+  text-align: center;
+}
+.n
+{
+  width: 64%;
+  margin: auto;
+  background: #f4f4f4;
+}
+.photo
+{
+  width: 10%
+}
+td
+{
+  padding: 15px;
+}
+.growth
+{
+  width: 70%;
+  margin: auto;
+}
+.foot
+{
+  background-color: blue;
+  color: white;
+}
+hr{
+  margin-top: 0;
+  background-color: blue;
+}
+#navee:hover
+{
+  background-color: blue; 
+}
